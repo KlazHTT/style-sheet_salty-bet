@@ -17,4 +17,4 @@ A custom style sheet providing a compact view of [Salty Bet](http://www.saltybet
     - URL: `https://www.salty-bet.com/`
     - Copy and paste code from `style.css`
     - Save and apply style rule.
-3. Visit [Salty Bet](http://www.saltybet.com/) where new style should be applied.
+3. Visit [Salty Bet](http://www.saltybet.com/) where new style should now be applied.
