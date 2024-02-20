@@ -8,7 +8,7 @@ A custom style sheet providing a compact view of [Salty Bet](http://www.saltybet
 ![](https://forge.haothitran.com/KlazHTT/style-sheet_salty-bet/raw/branch/main/assets/screenshot_default.png)
 
 ### Custom Stylesheet
-![](https://forge.haothitran.com/KlazHTT/style-sheet_salty-bet/raw/branch/main/assets/screenshot_styke.png)
+![](https://forge.haothitran.com/KlazHTT/style-sheet_salty-bet/raw/branch/main/assets/screenshot_style.png)
 
 ## Installation
 
