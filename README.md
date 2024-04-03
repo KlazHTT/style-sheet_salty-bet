@@ -6,7 +6,7 @@ A custom style sheet providing a compact view of [Salty Bet](http://www.saltybet
 
 | Default View | Custom Style Sheet View |
 |---|---|
-| ![](https://forge.haothitran.com/KlazHTT/style-sheet_salty-bet/raw/branch/main/assets/screenshot_default.png) | ![](https://forge.haothitran.com/KlazHTT/style-sheet_salty-bet/raw/branch/main/assets/screenshot_style.png) |
+| ![](https://forge.haothitran.com/KlazHTT/style-sheet_salty-bet/raw/branch/main/assets/screenshot_final_default.png) | ![](https://forge.haothitran.com/KlazHTT/style-sheet_salty-bet/raw/branch/main/assets/screenshot_final_style.png) |
 
 ## Installation
 
